@@ -1,3 +1,5 @@
+//출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
 const compare_function = (obj1, obj2) => {
   const head1_in_lo = obj1.head.toLowerCase();
   const head2_in_lo = obj2.head.toLowerCase();
